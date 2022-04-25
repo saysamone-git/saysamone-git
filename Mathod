@@ -1,0 +1,5 @@
+public class By_Method {
+    String id = "204Q";
+    String name = "saysamone";
+    String lastname = "keoseekao";
+}
